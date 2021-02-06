@@ -1,10 +1,10 @@
 ---
 layout: post
-title: My quick page introduction
-subtitle: Quick intro
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+title: My GitHub Timeline
+subtitle: A summarized timeline of my GitHub activity.
+cover-img: https://images.unsplash.com/photo-1518623001395-125242310d0c?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1804&q=80
+thumbnail-img: https://images.unsplash.com/photo-1518623001395-125242310d0c?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1804&q=80
+share-img: https://images.unsplash.com/photo-1518623001395-125242310d0c?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1804&q=80
 tags: [intro]
 ---
 # Dean Lofts loftwah
