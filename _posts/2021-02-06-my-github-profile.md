@@ -30,11 +30,11 @@ Technology, Music, and Coding. DevOps, PHP, Python, Docker, Node.js, TypeScript,
 
 ## Organizations
 
-[<img width="32" height="32" src=":/397b8ea939174effaa132b048321370a" class="jop-noMdConv">](https://github.com/spotDL) [<img width="32" height="32" src=":/5937deb1a4a5487f8a2d584d64578e92" class="jop-noMdConv">](https://github.com/wpshark)
+[<img width="32" height="32" src="https://avatars.githubusercontent.com/u/71949218?s=180&v=4" class="jop-noMdConv">](https://github.com/spotDL) [<img width="32" height="32" src="https://avatars.githubusercontent.com/u/72665265?s=180&v=4" class="jop-noMdConv">](https://github.com/wpshark)
 
 [loftwah](https://github.com/loftwah/loftwah)/README.md
 
-[Send feedback](https://support.github.com/contact/feedback?category=profile&subject=Profile+README)[](https://github.com/loftwah/loftwah/edit/master/README.md)
+<https://github.com/loftwah/loftwah/edit/master/README.md>
 
 # [](#dean-lofts---github-profile)Dean Lofts - GitHub Profile
 
@@ -221,15 +221,11 @@ jrussellfreelance/bash-scripts
 
 [on Oct 15](https://github.com/loftwah?tab=overview&from=2020-10-01&to=2020-10-31)
 
-[<img width="80" height="80" src=":/9b0d30f970a245c08f63ea2b05ec2289" class="jop-noMdConv">](https://github.com/spotDL)
-
 [spotDL](https://github.com/spotDL)
 
 #### Joined the [WPShark](https://github.com/wpshark) organization
 
 [on Oct 11](https://github.com/loftwah?tab=overview&from=2020-10-01&to=2020-10-31)
-
-[<img width="80" height="80" src=":/24613f5e8ada4bc8b134fa980935ce94" class="jop-noMdConv">](https://github.com/wpshark)
 
 [WPShark](https://github.com/wpshark)
 
